@@ -1,0 +1,20 @@
+exo1
+// Write your code below
+vacationSpots = ['paris', 'europe', 'france']
+
+console.log(vacationSpots[0])
+console.log(vacationSpots[1])
+console.log(vacationSpots[2])
+
+exo2
+// Write your code below
+for (let counter = 5; counter <11; counter++) {
+  console.log(counter);
+}
+
+
+exo3
+for (let counter = 3; counter >= 0; counter--){
+  console.log(counter);
+}
+

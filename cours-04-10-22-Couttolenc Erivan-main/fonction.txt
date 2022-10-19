@@ -1,0 +1,27 @@
+
+unction getReminder() {
+  console.log('Water the plants.');
+}
+
+function greetInSpanish() {
+  console.log('Buenas Tardes.');
+}
+
+
+
+exo 3
+function sayThanks(){
+  console.log('Thank you for your purchase! We appreciate your business.')
+}
+
+sayThanks();
+sayThanks();
+sayThanks();
+
+
+exo4
+function sayThanks(name) {
+  console.log('Thank you for your purchase '+ name + '! We appreciate your business.');
+}
+
+sayThanks('Cole');

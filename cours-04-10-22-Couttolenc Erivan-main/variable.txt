@@ -1,0 +1,36 @@
+
+var favoriteFood = 'pizza';
+var numOfSlices = 8;
+console.log(favoriteFood)
+console.log(numOfSlices)
+
+
+let changeMe =(true)
+console.log(changeMe)
+changeMe = (false)
+
+
+const entree = 'Enchiladas';
+console.log (entree)
+entree = 'Tacos'
+
+levelUp += 5
+powerLevel -= 100
+multiplyMe *= 11
+quarterMe /= 4
+
+gainedDollar++
+lostDollar--
+
+let favoriteAnimal = 'humain'
+console.log('My favorite animal: '+ favoriteAnimal)
+
+let myName = 'Jacquot Sacha'
+let myCity = 'Montpellier'
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`)
+
+let newVariable = 1;
+console.log(typeof newVariable);
+
+newVariable = 1;
+console.log(typeof newVariable);
